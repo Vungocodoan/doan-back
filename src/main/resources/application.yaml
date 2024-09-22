@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: my-service
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/mydatabase
+#    username: myuser
+#    password: mypassword
+#  logging:
+#    level:
+#      org.springframework: INFO
+#      com.example: DEBUG
+#  security:
+#    oauth2:
+#      client:
+#        clientId: my-client-id
+#        clientSecret: my-client-secret
+#        accessTokenUri: http://auth-server/oauth/token
+#        userAuthorizationUri: http://auth-server/oauth/authorize
+#  cache:
+#    caffeine:
+#      spec: maximumSize=100,expireAfterAccess=300s
+#  messaging:
+#    kafka:
+#      bootstrap-servers: kafka:9092
+#      consumer:
+#        groupId: my-group
+#  myapp:
+#    greeting: Hello from MyApp!
